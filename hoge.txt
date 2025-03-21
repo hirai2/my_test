@@ -5,3 +5,5 @@ text
 add fuga
 
 03 piyo
+
+ad 04 by mac local komorebiyori
